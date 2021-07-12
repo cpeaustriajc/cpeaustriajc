@@ -27,8 +27,8 @@
 <section>
   <h3>Stats 📊</h3>
   <div>
-    <img alt="John Carlo's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=jaycedotbin&show_icons=true&theme=dark" height="240rem">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaycedotbin&theme=dark" alt="Top Langs" height="240rem">
+    <img alt="John Carlo's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=jaycedotbin&show_icons=true&theme=dark" height="235rem">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaycedotbin&theme=dark" alt="Top Langs" height="235rem">
       <a href="https://github.com/jaycedotbin/github-readme-stats"></a>
     </img> 
   </div>
