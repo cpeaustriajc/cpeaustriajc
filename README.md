@@ -1,6 +1,5 @@
 <section>
   <h3>Hello there👋🏾</h3>
-  <p>I am a programmer based in the philippines.</p>
 </section> 
 
 <section>
@@ -18,8 +17,8 @@
 </section>
 
 <section>
-  <h3>Music 🎵</h3>
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=hfwv1ureey9lfncjbrlx6r0hz&cover_image=true&theme=default" alt="Spotify Github Profile">
+  <h3>Currently Playing in Spotify 🔥🎵</h3>
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=hfwv1ureey9lfncjbrlx6r0hz&cover_image=true&theme=novatorem" alt="Spotify Github Profile">
     <a href="https://spotify-github-profile.vercel.app/api/view?uid=hfwv1ureey9lfncjbrlx6r0hz&redirect=true"></a>
   </img>
 </section>
