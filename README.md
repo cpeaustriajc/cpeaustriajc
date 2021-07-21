@@ -6,7 +6,6 @@
   <h3>Programming Languages 👨🏾‍💻</h3>
   <div>
     <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript">
-    <img alt="Java" src="https://img.shields.io/badge/-Java-000?&logo=Java">
     <img alt="TypeScript" src="https://img.shields.io/badge/-Typescript-000?&logo=TypeScript">
   </div>
   <h3>Technologies 🐱‍💻</h3>
