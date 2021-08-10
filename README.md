@@ -3,6 +3,10 @@
 </section> 
 
 <section>
+  I'm currently learning how to use the keyboard more often
+ </section>
+ 
+<section>
   <h3>Programming Languages 👨🏾‍💻</h3>
   <div>
     <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript">
