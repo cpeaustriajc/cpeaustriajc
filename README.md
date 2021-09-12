@@ -20,13 +20,6 @@
 </section>
 
 <section>
-  <h3>Currently Playing in Spotify 🔥🎵</h3>
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=hfwv1ureey9lfncjbrlx6r0hz&cover_image=true&theme=novatorem" alt="Spotify Github Profile">
-    <a href="https://spotify-github-profile.vercel.app/api/view?uid=hfwv1ureey9lfncjbrlx6r0hz&redirect=true"></a>
-  </img>
-</section>
-
-<section>
   <h3>Stats 📊</h3>
   <div>
     <img alt="John Carlo's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=jaycedotbin&show_icons=true&theme=dark" height="232rem">
