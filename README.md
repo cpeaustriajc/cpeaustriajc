@@ -3,7 +3,7 @@
 I am a college student currently taking a Bachelor in Science Degree in Computer Engineering at [Pamantasan Lungsod ng San Pablo](https://www.facebook.com/PLSPOfficialFBPage/).
 
 * 🗒️ I am currently learning about C/C++.
-* ⚙️  My favourite technologies are [The Linux Kernel](https://github.com/torvalds/linux), [SFML](https://github.com/SFML/SFML) and [Emacs](https://github.com/emacs-mirror/emacs).
+* ⚙️  My favourite technologies are [The Linux Kernel](https://www.kernel.org/), [SFML](https://www.sfml-dev.org/) and [Neovim](https://neovim.io/).
 * 🧐 I am interested in OS Development and Game Development.
 * ✍️  I am currently busy studying in College and following our Programming Curriculum.
 
