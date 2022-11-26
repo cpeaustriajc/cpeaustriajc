@@ -9,5 +9,5 @@ different types of technology but I have keen eyes for web technologies and low 
 
 You can find me rambling about random things in my [blog].
 
-[blog]: https://jaycedotbin.github.io/blog
+[blog]: https://jaycedotbin.github.io/
 [DLSP]: https://www.facebook.com/PLSPOfficialFBPage
