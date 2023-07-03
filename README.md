@@ -37,12 +37,16 @@ different types of technology but I have keen eyes for web technologies and low 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 
-# 📊 Stats
+## 📊 Stats
 
 <img align="left" alt="John Carlo Austria's Top Languages" width="34%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaycedotbin&show_icons=true&theme=transparent&layout=donut" />
 
 <img align="left" alt="John Carlo Austria's GitHub stats" width="50%"  src="https://github-readme-stats.vercel.app/api?username=jaycedotbin&show_icons=true&theme=transparent" />
 
+## 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 [portfolio]: https://jaycedotbin.me/
 [DLSP]: https://www.facebook.com/PLSPOfficialFBPage
