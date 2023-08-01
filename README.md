@@ -38,10 +38,6 @@ different types of technology but I have keen eyes for web technologies and low 
 
 <!-- BLOG-POST-LIST:START -->
 - [Svelte: The framework that I wanted to try out for a long time](https://jaycedotbin.hashnode.dev/svelte-the-framework-that-i-wanted-to-try-out-for-a-long-time)
-- [End of a Semester, End of a Chapter: How to handle changes and why you should cherish the small things in life](https://jaycedotbin.me/blog/end-of-a-semester-end-of-a-chapter/)
-- [Moving On](https://jaycedotbin.me/blog/moving-on/)
-- [Marathon Updates &lpar;November 7, 2022&rpar;](https://jaycedotbin.me/blog/marathon-updates/)
-- [Devlog.One — Modern, Blazingly fast!](https://jaycedotbin.me/blog/devlog-one/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📊 Stats
