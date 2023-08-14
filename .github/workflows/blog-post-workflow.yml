@@ -16,5 +16,5 @@ jobs:
       - name: Pull in jaycedotbin.me
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: https://jaycedotbin.me/rss.xml"
+          feed_list: https://jaycedotbin.me/rss.xml
           
