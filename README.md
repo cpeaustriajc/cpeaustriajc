@@ -37,11 +37,11 @@ different types of technology but I have keen eyes for web technologies and low 
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Why you probably can&#39;t finish a frontend project](https://dev.to/jaycedotbin/why-you-probably-cant-finish-a-frontend-project-3cki)
 - [How to fix the @apply and @tailwind warning in VSCode when using TailwindCSS](https://dev.to/jaycedotbin/how-to-fix-the-apply-and-tailwind-warning-in-vscode-when-using-tailwindcss-26hf)
 - [How to fix the @apply and @tailwind warning in VSCode when using TailwindCSS](https://jaycedotbin.hashnode.dev/how-to-fix-the-apply-and-tailwind-warning-in-vscode-when-using-tailwindcss)
 - [Why you probably can&#39;t finish a frontend project](https://jaycedotbin.hashnode.dev/why-you-probably-cant-finish-a-frontend-project)
 - [How to fix the @apply and @tailwind warning in VSCode when using TailwindCSS](https://jaycedotbin.me/posts/tailwindcss-at-apply-warning/)
-- [Svelte: The framework that I wanted to try out for a long time](https://jaycedotbin.hashnode.dev/svelte-the-framework-that-i-wanted-to-try-out-for-a-long-time)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📊 Stats
