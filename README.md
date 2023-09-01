@@ -6,7 +6,7 @@ different types of technology but I have keen eyes for web technologies and low 
 
 🔭  I’m currently working on a twitter clone🐦
 
-🌱  I’m currently learning Go
+🌱  I’m currently learning C#
 
 💬  Ask me about anything related to Javascript/Typescript or React/Next.js
 
