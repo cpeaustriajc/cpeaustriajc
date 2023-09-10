@@ -37,11 +37,11 @@ different types of technology but I have keen eyes for web technologies and low 
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Next.js 13 Data Fetching with App Router](https://dev.to/jaycedotbin/nextjs-13-data-fetching-with-app-router-289h)
+- [Next.js 13 Data Fetching with App Router](https://jaycedotbin.me/posts/next-13-data-fetching/)
 - [What&#39;s new in Astro 3.0](https://jaycedotbin.me/posts/astro-v3/)
 - [What&#39;s new in Astro 3.0](https://dev.to/jaycedotbin/whats-new-in-astro-30-2le7)
 - [Why you probably can&#39;t finish a frontend project](https://dev.to/jaycedotbin/why-you-probably-cant-finish-a-frontend-project-3cki)
-- [How to fix the @apply and @tailwind warning in VSCode when using TailwindCSS](https://dev.to/jaycedotbin/how-to-fix-the-apply-and-tailwind-warning-in-vscode-when-using-tailwindcss-26hf)
-- [How to fix the @apply and @tailwind warning in VSCode when using TailwindCSS](https://jaycedotbin.hashnode.dev/how-to-fix-the-apply-and-tailwind-warning-in-vscode-when-using-tailwindcss)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📊 Stats
