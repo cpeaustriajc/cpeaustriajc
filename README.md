@@ -37,11 +37,11 @@ different types of technology but I have keen eyes for web technologies and low 
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Obsidian&#39;s new properties feature and how it became the perfect feature for Astro](https://jaycedotbin.me/posts/2023-10-15-using-obsidian-as-a-cms/)
 - [TIL: How to use the require syntax in .mjs files](https://dev.to/jaycedotbin/til-how-to-use-the-require-syntax-in-mjs-files-4n03)
+- [Portfolio V2](https://jaycedotbin.me/posts/2023-09-10-portfolio-v2/)
+- [How to fix the @apply and @tailwind warning in VSCode when using TailwindCSS](https://jaycedotbin.me/posts/2023-09-08-tailwindcss-at-apply-warning/)
 - [Next.js 13 Data Fetching with App Router](https://dev.to/jaycedotbin/nextjs-13-data-fetching-with-app-router-289h)
-- [What&#39;s new in Astro 3.0](https://dev.to/jaycedotbin/whats-new-in-astro-30-2le7)
-- [Why you probably can&#39;t finish a frontend project](https://dev.to/jaycedotbin/why-you-probably-cant-finish-a-frontend-project-3cki)
-- [How to fix the @apply and @tailwind warning in VSCode when using TailwindCSS](https://dev.to/jaycedotbin/how-to-fix-the-apply-and-tailwind-warning-in-vscode-when-using-tailwindcss-26hf)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📊 Stats
