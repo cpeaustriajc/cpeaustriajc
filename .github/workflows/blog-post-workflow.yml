@@ -17,5 +17,5 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           remove_duplicates: true
-          feed_list: "https://jaycedotbin.me/rss.xml,https://jaycedotbin.hashnode.dev/rss.xml,https://dev.to/feed/jaycedotbin"
+          feed_list: "https://jayzers.vercel.app/rss.xml,https://jaycedotbin.hashnode.dev/rss.xml,https://dev.to/feed/jaycedotbin"
           
