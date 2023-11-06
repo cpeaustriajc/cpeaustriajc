@@ -10,7 +10,7 @@ different types of technology but I have keen eyes for web technologies and low 
 
 💬  Ask me about anything related to Javascript/Typescript or React/Next.js
 
-👨‍💻  Read more about my projects at [jaycedotbin.me][portfolio]
+👨‍💻  Read more about my projects in my [portfolio]
 
 ⚡  Fun fact: I ❤️ Cats, Cycling, Exercising, Gaming
 
@@ -46,9 +46,9 @@ different types of technology but I have keen eyes for web technologies and low 
 
 ## 📊 Stats
 
-<img align="left" alt="John Carlo Austria's Top Languages" width="34%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaycedotbin&show_icons=true&theme=transparent&layout=donut" />
+<img align="left" alt="John Carlo Austria's Top Languages" width="34%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayzersdotdev&show_icons=true&theme=transparent&layout=donut" />
 
-<img align="left" alt="John Carlo Austria's GitHub stats" width="50%"  src="https://github-readme-stats.vercel.app/api?username=jaycedotbin&show_icons=true&theme=transparent" />
+<img align="left" alt="John Carlo Austria's GitHub stats" width="50%"  src="https://github-readme-stats.vercel.app/api?username=jayzersdotdev&show_icons=true&theme=transparent" />
 
-[portfolio]: https://jaycedotbin.me/
+[portfolio]: https://jayzers.vercel.app
 [DLSP]: https://www.facebook.com/PLSPOfficialFBPage
