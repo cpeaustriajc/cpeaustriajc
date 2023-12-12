@@ -1,6 +1,6 @@
 # 👋 Hello There
 
-I am a college student currently taking a Bachelor in Science Degree in Computer
+I am a college student currently taking a Bachelor of Science Degree in Computer
 Engineering at [Pamantasan Lungsod ng San Pablo][DLSP]. I am interested in many
 different types of technology but I have keen eyes for web technologies and low level tech.
 
