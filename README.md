@@ -37,11 +37,11 @@ different types of technology but I have keen eyes for web technologies and low 
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A reflection in College as a Computer Engineering Student](https://jayzers.vercel.app/posts/reflection-college-computer-engineering-student/)
 - [Obsidian&#39;s new properties feature and how it became the perfect feature for Astro](https://jayzers.vercel.app/posts/2023-10-15-using-obsidian-as-a-cms/)
 - [TIL: How to use the require syntax in .mjs files](https://dev.to/jaycedotbin/til-how-to-use-the-require-syntax-in-mjs-files-4n03)
 - [Portfolio V2](https://jayzers.vercel.app/posts/2023-09-10-portfolio-v2/)
 - [How to fix the @apply and @tailwind warning in VSCode when using TailwindCSS](https://jayzers.vercel.app/posts/2023-09-08-tailwindcss-at-apply-warning/)
-- [Next.js 13 Data Fetching with App Router](https://dev.to/jaycedotbin/nextjs-13-data-fetching-with-app-router-289h)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📊 Stats
