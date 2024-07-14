@@ -46,9 +46,9 @@ different types of technology but I have keen eyes for web technologies and low 
 
 ## 📊 Stats
 
-<img align="left" alt="John Carlo Austria's Top Languages" width="34%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeyceedotdev&show_icons=true&theme=transparent&layout=donut" />
+<img align="left" alt="John Carlo Austria's Top Languages" width="34%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cpeaustriajc&show_icons=true&theme=transparent&layout=donut" />
 
-<img align="left" alt="John Carlo Austria's GitHub stats" width="50%"  src="https://github-readme-stats.vercel.app/api?username=jeyceedotdev&show_icons=true&theme=transparent" />
+<img align="left" alt="John Carlo Austria's GitHub stats" width="50%"  src="https://github-readme-stats.vercel.app/api?username=cpeaustriajc&show_icons=true&theme=transparent" />
 
 [portfolio]: https://cpeaustriajc.github.io
 [DLSP]: https://www.facebook.com/PLSPOfficialFBPage
