@@ -4,9 +4,9 @@ I am a college student currently taking a Bachelor of Science Degree in Computer
 Engineering at [Pamantasan Lungsod ng San Pablo][DLSP]. I am interested in many
 different types of technology but I have keen eyes for web technologies and low level tech.
 
-🔭  I’m currently working on a twitter clone🐦
+🔭  I’m currently working in Converge ICT Solutions, Inc. (San Pablo City)
 
-🌱  I’m currently learning Rust
+🌱  I’m currently learning C#
 
 💬  Ask me about anything related to Javascript/Typescript or React/Next.js
 
@@ -50,5 +50,5 @@ different types of technology but I have keen eyes for web technologies and low 
 
 <img align="left" alt="John Carlo Austria's GitHub stats" width="50%"  src="https://github-readme-stats.vercel.app/api?username=jeyceedotdev&show_icons=true&theme=transparent" />
 
-[portfolio]: https://jayzers.vercel.app
+[portfolio]: https://cpeaustriajc.github.io
 [DLSP]: https://www.facebook.com/PLSPOfficialFBPage
