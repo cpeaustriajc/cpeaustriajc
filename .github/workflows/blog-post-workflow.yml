@@ -17,5 +17,5 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           remove_duplicates: true
-          feed_list: "https://jeycee.pages.dev/rss.xml"
+          feed_list: "https://cpeaustriajc.github.io/rss.xml"
           
