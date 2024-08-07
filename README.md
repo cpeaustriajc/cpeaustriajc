@@ -37,11 +37,11 @@ different types of technology but I have keen eyes for web technologies and low 
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [A reflection in College as a Computer Engineering Student](https://jayzers.vercel.app/posts/reflection-college-computer-engineering-student/)
-- [Obsidian&#39;s new properties feature and how it became the perfect feature for Astro](https://jayzers.vercel.app/posts/2023-10-15-using-obsidian-as-a-cms/)
-- [Portfolio V2](https://jayzers.vercel.app/posts/2023-09-10-portfolio-v2/)
-- [How to fix the @apply and @tailwind warning in VSCode when using TailwindCSS](https://jayzers.vercel.app/posts/2023-09-08-tailwindcss-at-apply-warning/)
-- [Next.js 13 Data Fetching with App Router](https://jayzers.vercel.app/posts/2023-09-01-next-13-data-fetching/)
+- [My work ethic as an intern](https://cpeaustriajc.github.io/posts/2024-08-05-my-work-ethic/)
+- [A reflection in College as a Computer Engineering Student](https://cpeaustriajc.github.io/posts/reflection-college-computer-engineering-student/)
+- [Obsidian&#39;s new properties feature and how it became the perfect feature for Astro](https://cpeaustriajc.github.io/posts/2023-10-15-using-obsidian-as-a-cms/)
+- [Portfolio V2](https://cpeaustriajc.github.io/posts/2023-09-10-portfolio-v2/)
+- [How to fix the @apply and @tailwind warning in VSCode when using TailwindCSS](https://cpeaustriajc.github.io/posts/2023-09-08-tailwindcss-at-apply-warning/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📊 Stats
