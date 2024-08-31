@@ -4,6 +4,8 @@ I am a college student currently taking a Bachelor of Science Degree in Computer
 Engineering at [Pamantasan Lungsod ng San Pablo][DLSP]. I am interested in many
 different types of technology but I have keen eyes for web technologies and low level tech.
 
+## 🚀 About Me
+
 🔭  I’m currently working as an intern at Converge ICT Solutions, Inc. (San Pablo City)
 
 🌱  I’m currently learning C#
