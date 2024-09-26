@@ -6,7 +6,7 @@ different types of technology but I have keen eyes for web technologies and low 
 
 ## 🚀 About Me
 
-🔭  I’m currently working as an intern at Converge ICT Solutions, Inc. (San Pablo City)
+🔭  I’m currently working as a freelancer, contact me if you want to work together!
 
 🌱  I’m currently learning C#
 
