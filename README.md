@@ -39,11 +39,11 @@ different types of technology but I have keen eyes for web technologies and low 
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [A Reflection on the State of my Work Ethic as an Intern](https://cpeaustriajc.github.io/posts/2024-08-05-my-work-ethic/)
-- [A reflection in College as a Computer Engineering Student](https://cpeaustriajc.github.io/posts/2024-01-25-reflection-on-college-engineering-student/)
-- [Is Obsidian&#39;s New Properties Feature The Perfect for Astro?](https://cpeaustriajc.github.io/posts/2023-10-15-using-obsidian-as-a-cms/)
-- [My Though Process on how I Redesigned my Portfolio](https://cpeaustriajc.github.io/posts/2023-09-10-portfolio-v2/)
-- [How to fix the @apply and @tailwind warnings in VSCode](https://cpeaustriajc.github.io/posts/2023-09-08-tailwindcss-at-apply-warning/)
+- [A Reflection on the State of my Work Ethic as an Intern](https://cpeaustriajc.github.io/posts/undefined/)
+- [A reflection in College as a Computer Engineering Student](https://cpeaustriajc.github.io/posts/undefined/)
+- [Is Obsidian&#39;s New Properties Feature The Perfect for Astro?](https://cpeaustriajc.github.io/posts/undefined/)
+- [My Though Process on how I Redesigned my Portfolio](https://cpeaustriajc.github.io/posts/undefined/)
+- [How to fix the @apply and @tailwind warnings in VSCode](https://cpeaustriajc.github.io/posts/undefined/)
 <!-- BLOG-POST-LIST:END -->
 
 [portfolio]: https://cpeaustriajc.github.io
